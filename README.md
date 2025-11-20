@@ -5,7 +5,11 @@ A collection of some little tools or resource files
 
 Developed by Gemini 2.5 Pro
 
-<b>2.flower.js & yecao202412.js</b>
+<b>2.launch.json & tasks.json</b>
+
+C/C++ configuration files for VS Code, shared by [Grayson Zheng](https://blog.csdn.net/qq_42417071/article/details/137438374)
+
+<b>3.flower.js & yecao202412.js</b>
 
 Audio source (files) for [LX Music Desktop](https://github.com/lyswhut/lx-music-desktop) & [LX Music Mobile](https://github.com/lyswhut/lx-music-mobile),
 shared by [KYC666](https://github.com/KYC666)
