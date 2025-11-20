@@ -7,9 +7,10 @@ Developed by Gemini 2.5 Pro
 
 <b>2.flower.js & yecao202412.js</b>
 
-Audio source (files) for LX Music Desktop & LX Music Mobile
+Audio source (files) for [LX Music Desktop](https://github.com/lyswhut/lx-music-desktop) & [LX Music Mobile](https://github.com/lyswhut/lx-music-mobile),
+shared by [KYC666](https://github.com/KYC666)
 
-Shared by [KYC666](https://github.com/KYC666)
+See [background infos](https://lxmusic.toside.cn/desktop/faq/cannot-play-and-download)
 
 For 'Online Import', copy the URLs: [flower.js](https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js) &
 [yecao202412.js](https://tt.tenmeng.com/moonue/js/yecao202412.js)
