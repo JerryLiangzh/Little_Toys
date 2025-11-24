@@ -18,3 +18,7 @@ See [background infos](https://lxmusic.toside.cn/desktop/faq/cannot-play-and-dow
 
 For 'Online Import', copy the URLs: [flower.js](https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js) &
 [yecao202412.js](https://tt.tenmeng.com/moonue/js/yecao202412.js)
+
+<b>4.script.js</b>
+
+Github Search Purification Plugin, developed by [BonjourFeng](https://github.com/BonjourFeng)
