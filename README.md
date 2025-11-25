@@ -21,7 +21,7 @@ For 'Online Import', copy the URLs: [flower.js](https://ghproxy.net/https://raw.
 
 <b>4.script.js</b>
 
-Github Search Purification Plugin, developed by [BonjourFeng](https://github.com/BonjourFeng)
+[Github Search Purification](https://github.com/BonjourFeng/Github-Search-Purification) Plugin, developed by [BonjourFeng](https://github.com/BonjourFeng)
 
 <b>5.Linux Distribution Timeline</b>
 
