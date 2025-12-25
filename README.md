@@ -26,3 +26,7 @@ For 'Online Import', copy the URLs: [flower.js](https://ghproxy.net/https://raw.
 <b>5.Linux Distribution Timeline</b>
 
 2022 Version 24.10 [Original source](https://web.archive.org/web/20220403102136/http://futurist.se/gldt/)
+
+<b>6.WakeUp课程表-6.0.22(262) & WakeUp课程表-6.0.23(263)</b>
+
+6.0.22是隐私政策仍属于原开发者的最后一个版本，6.0.23则已经变成极目未来（作业帮）即已经被收购但还没有一些奇奇怪怪的SDK
